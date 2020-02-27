@@ -1,0 +1,2 @@
+In default view: 85 apps.
+In "include system apps view": 294 apps.
